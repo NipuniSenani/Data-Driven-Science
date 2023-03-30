@@ -1,5 +1,3 @@
-This project is one of favorite project and this is the project that drown me to this field.
-
 # What is this project about:
 ## Implement a nearest-neighbor face recognotion algorithm based on Eigenfaces.
 
